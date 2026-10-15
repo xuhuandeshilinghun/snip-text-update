@@ -1,0 +1,33 @@
+{
+  "latest_ver": "V1.0.3",
+  "update_log": "1. Added support for multiple languages; \n 2. Optimized the adsorption and editing functions during screenshot",
+  "force_update": false,
+  "full_package": {
+    "mode": "all_files",
+    "base_version": null,
+    "requires_base": false,
+    "filename": "SnipOCR_update_full_v1.0.3.zip",
+    "sha256": "c317a24205615e46d5ed8b85988943a3133e27661412e43729f4b9964f624e67",
+    "size": 19950565,
+    "changed_files": 81,
+    "deleted_files": []
+  },
+  "diff_package": {
+    "base_version": "1.0.0",
+    "filename": "SnipOCR_update_diff_v1.0.0_to_v1.0.3.zip",
+    "sha256": "eee32a8c6b0d6cdae2965d90e30be64b309330af9feb71268862cbd4ac51030d",
+    "size": 8805034,
+    "changed_files": 36,
+    "deleted_files": [
+      "hotkey_debug.log",
+      ".config_settings.json",
+      "translations/qtbase_zh_CN.qm",
+      "history/default/sp20261014_151151_001.png",
+      "model/MediaOCR-Base-v1.mtk-model",
+      "translations/qtbase_en.qm",
+      "SnapOCR.exe",
+      "main_debug.log"
+    ]
+  },
+  "released_at": "2026-10-15 16:53:46"
+}
