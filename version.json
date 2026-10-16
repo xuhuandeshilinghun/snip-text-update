@@ -1,33 +1,29 @@
 {
-  "latest_ver": "V1.0.3",
-  "update_log": "1. Added support for multiple languages; \n 2. Optimized the adsorption and editing functions during screenshot",
-  "force_update": false,
+  "latest_ver": "V1.0.4",
+  "update_log": "1. Fix known issues",
+  "force_update": true,
   "full_package": {
     "mode": "all_files",
     "base_version": null,
     "requires_base": false,
-    "filename": "SnipOCR_update_full_v1.0.3.zip",
-    "sha256": "c317a24205615e46d5ed8b85988943a3133e27661412e43729f4b9964f624e67",
-    "size": 19950565,
+    "filename": "SnipOCR_update_full_v1.0.4.zip",
+    "sha256": "0abbe497d397cda15ed295af78175047707fc7f75f6cfdd57a97651a0f4c0eb6",
+    "size": 19951121,
     "changed_files": 81,
     "deleted_files": []
   },
   "diff_package": {
     "base_version": "1.0.0",
-    "filename": "SnipOCR_update_diff_v1.0.0_to_v1.0.3.zip",
-    "sha256": "eee32a8c6b0d6cdae2965d90e30be64b309330af9feb71268862cbd4ac51030d",
-    "size": 8805034,
-    "changed_files": 36,
+    "filename": "SnipOCR_update_diff_v1.0.0_to_v1.0.4.zip",
+    "sha256": "f2795b8c882fc24e9c9c1b4875c8766d31d1e88084e0eabfdde75dd1ea39ed8e",
+    "size": 424773,
+    "changed_files": 2,
     "deleted_files": [
       "hotkey_debug.log",
-      ".config_settings.json",
-      "translations/qtbase_zh_CN.qm",
-      "history/default/sp20261014_151151_001.png",
-      "model/MediaOCR-Base-v1.mtk-model",
-      "translations/qtbase_en.qm",
-      "SnapOCR.exe",
-      "main_debug.log"
+      "main_debug.log",
+      "snip_capture_target.log",
+      "history/index.dat"
     ]
   },
-  "released_at": "2026-10-15 16:53:46"
+  "released_at": "2026-10-16 14:22:39"
 }
