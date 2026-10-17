@@ -1,29 +1,29 @@
 {
-  "latest_ver": "V1.0.4",
+  "latest_ver": "V1.0.5",
   "update_log": "1. Fix known issues",
-  "force_update": true,
+  "force_update": false,
   "full_package": {
     "mode": "all_files",
     "base_version": null,
     "requires_base": false,
-    "filename": "SnipOCR_update_full_v1.0.4.zip",
-    "sha256": "0abbe497d397cda15ed295af78175047707fc7f75f6cfdd57a97651a0f4c0eb6",
-    "size": 19951121,
-    "changed_files": 81,
+    "filename": "SnipOCR_update_full_v1.0.5.zip",
+    "sha256": "692b6014a54694306686a11e43293a9c5d91dde94c533cffad8c48597b31a490",
+    "size": 19993542,
+    "changed_files": 83,
     "deleted_files": []
   },
   "diff_package": {
     "base_version": "1.0.0",
-    "filename": "SnipOCR_update_diff_v1.0.0_to_v1.0.4.zip",
-    "sha256": "f2795b8c882fc24e9c9c1b4875c8766d31d1e88084e0eabfdde75dd1ea39ed8e",
-    "size": 424773,
-    "changed_files": 2,
+    "filename": "SnipOCR_update_diff_v1.0.0_to_v1.0.5.zip",
+    "sha256": "20eba4c873d3ce396670ad19a035c4c48d1986486e47a893a3d98026e0442bec",
+    "size": 787221,
+    "changed_files": 27,
     "deleted_files": [
       "hotkey_debug.log",
-      "main_debug.log",
       "snip_capture_target.log",
+      "main_debug.log",
       "history/index.dat"
     ]
   },
-  "released_at": "2026-10-16 14:22:39"
+  "released_at": "2026-10-17 09:21:25"
 }
