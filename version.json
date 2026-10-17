@@ -1,6 +1,6 @@
 {
   "latest_ver": "V1.0.6",
-  "update_log": "1.修复已知问题；\n2.增加印地语",
+  "update_log": "1. Fix known issues;\n2. Add Hindi language",
   "force_update": false,
   "full_package": {
     "mode": "all_files",
