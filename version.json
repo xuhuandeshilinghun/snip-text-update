@@ -1,29 +1,24 @@
 {
-  "latest_ver": "V1.0.5",
-  "update_log": "1. Fix known issues",
+  "latest_ver": "V1.0.6",
+  "update_log": "1.修复已知问题；\n2.增加印地语",
   "force_update": false,
   "full_package": {
     "mode": "all_files",
     "base_version": null,
     "requires_base": false,
-    "filename": "SnipOCR_update_full_v1.0.5.zip",
-    "sha256": "692b6014a54694306686a11e43293a9c5d91dde94c533cffad8c48597b31a490",
+    "filename": "SnipOCR_update_full_v1.0.6.zip",
+    "sha256": "c817e8c1ca42b7a0d79ccb5478a03c6d66a3d92fd98f82dbc283e43c8ec775af",
     "size": 19993542,
     "changed_files": 83,
     "deleted_files": []
   },
   "diff_package": {
-    "base_version": "1.0.0",
-    "filename": "SnipOCR_update_diff_v1.0.0_to_v1.0.5.zip",
-    "sha256": "20eba4c873d3ce396670ad19a035c4c48d1986486e47a893a3d98026e0442bec",
-    "size": 787221,
-    "changed_files": 27,
-    "deleted_files": [
-      "hotkey_debug.log",
-      "snip_capture_target.log",
-      "main_debug.log",
-      "history/index.dat"
-    ]
+    "base_version": "1.0.5",
+    "filename": "SnipOCR_update_diff_v1.0.5_to_v1.0.6.zip",
+    "sha256": "b58adad98565f52e6715fa09c0106849225d14289f343c44c09918f891324150",
+    "size": 213,
+    "changed_files": 1,
+    "deleted_files": []
   },
-  "released_at": "2026-10-17 09:21:25"
+  "released_at": "2026-10-17 09:52:28"
 }
